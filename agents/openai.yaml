@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文中英对照 PDF"
+  short_description: "按 Zotero 参考版式生成可选取、可跳转的中英对照 PDF"
+  default_prompt: "使用 $paper-bilingual-pdf 将指定论文制作成左右对照 PDF，保留英文文本层、链接、图表结构，并用原图裁剪复杂公式。"
